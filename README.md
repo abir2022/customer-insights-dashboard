@@ -1,3 +1,5 @@
+![Customer Insights Dashboard](assets/banner.svg)
+
 # NexaGroup Customer Understanding Dashboard
 
 A five-workstream customer intelligence suite for a diversified B2B group — consolidated
